@@ -1,1 +1,3 @@
 # Predict_Future_Sales
+Sales predictions provide key data so that the team can make decisions to improve the sales by tweaking contributing factors. To forecast the total amount of product sold in every shop for the test set. Here, the list of shops and products slightly changes every month. Our main aim is to create a robust model that can handle such situations. We used gradient boosting model(GBM) as we can deal directly with the variables of choice, use cross-fold validation parameter. Also RMSE(root mean squared error) is easy to interpret. GBM offers partial dependency plot which helps us explore correlations between features.
+
